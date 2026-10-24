@@ -1,0 +1,9 @@
+2026-10-25 01:09:30,291 [INFO] 🚀 Chat server started on 127.0.0.1:8888
+2026-10-25 01:10:15,776 [INFO] ➕ Alica connected from ('127.0.0.1', 59222)
+2026-10-25 01:10:36,544 [INFO] ➕ Bob connected from ('127.0.0.1', 59257)
+2026-10-25 01:13:56,292 [INFO] ➖ Bob disconnected
+2026-10-25 01:14:03,552 [INFO] ➕ a connected from ('127.0.0.1', 59370)
+2026-10-25 01:14:27,355 [INFO] ➖ a disconnected
+2026-10-25 01:14:27,356 [INFO] ➖ Alica disconnected
+2026-10-25 01:14:27,356 [WARNING] 💀 Removed dead client: Alica
+2026-10-25 01:14:27,358 [INFO] 🛑 Server stopped by user
